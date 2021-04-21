@@ -1,0 +1,147 @@
+Data/hora......: 20/04/2021 19:06:19
+Exceção........: Floating point division by zero
+Classe.........: EZeroDivide
+Onde...........: fMain
+Arquivo........: Main
+Controle.......: Button1
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 19:17:13
+Exceção........: Cannot create file "C:\Provas Tecnicas\Prova 01\appmanutencao-master\src\Servidor\1.pdf". O sistema não pode encontrar o caminho especificado
+Classe.........: EFCreateError
+Onde...........: fClienteServidor
+Arquivo........: ClienteServidor
+Controle.......: btEnviarSemErros
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 19:18:11
+Exceção........: Cannot create file "C:\Provas Tecnicas\Prova 01\appmanutencao-master\src\Servidor\1.pdf". O sistema não pode encontrar o caminho especificado
+Classe.........: EFCreateError
+Onde...........: fClienteServidor
+Arquivo........: ClienteServidor
+Controle.......: btEnviarSemErros
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 19:29:50
+Exceção........: Cannot open file "C:\Provas Tecnicas\Prova 01\appmanutencao-master\src\Servidor\". O sistema não pode encontrar o arquivo especificado
+Classe.........: EFOpenError
+Onde...........: fClienteServidor
+Arquivo........: ClienteServidor
+Controle.......: btEnviarSemErros
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 19:31:22
+Exceção........: Cannot open file "C:\Provas Tecnicas\Prova 01\appmanutencao-master\src\Servidor\". O sistema não pode encontrar o caminho especificado
+Classe.........: EFOpenError
+Onde...........: fClienteServidor
+Arquivo........: ClienteServidor
+Controle.......: btEnviarSemErros
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 19:32:54
+Exceção........: Cannot open file "C:\Provas Tecnicas\Prova 01\appmanutencao-master\src\Servidor\". O sistema não pode encontrar o caminho especificado
+Classe.........: EFOpenError
+Onde...........: fClienteServidor
+Arquivo........: ClienteServidor
+Controle.......: btEnviarSemErros
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 19:33:24
+Exceção........: Cannot open file "C:\Provas Tecnicas\Prova 01\appmanutencao-master\src\Servidor\". O sistema não pode encontrar o caminho especificado
+Classe.........: EFOpenError
+Onde...........: fClienteServidor
+Arquivo........: ClienteServidor
+Controle.......: btEnviarSemErros
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 19:35:09
+Exceção........: Access violation at address 006BA4E9 in module 'Foo.exe'. Read of address 00000004
+Classe.........: EAccessViolation
+Onde...........: fClienteServidor
+Arquivo........: ClienteServidor
+Controle.......: btEnviarSemErros
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 19:39:01
+Exceção........: Access violation at address 006BA51B in module 'Foo.exe'. Read of address 00000004
+Classe.........: EAccessViolation
+Onde...........: fClienteServidor
+Arquivo........: ClienteServidor
+Controle.......: btEnviarSemErros
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 19:40:09
+Exceção........: Access violation at address 006BA51B in module 'Foo.exe'. Read of address 00000004
+Classe.........: EAccessViolation
+Onde...........: fClienteServidor
+Arquivo........: ClienteServidor
+Controle.......: btEnviarSemErros
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 19:42:02
+Exceção........: Access violation at address 006BA508 in module 'Foo.exe'. Read of address 00000004
+Classe.........: EAccessViolation
+Onde...........: fClienteServidor
+Arquivo........: ClienteServidor
+Controle.......: btEnviarSemErros
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 20:31:18
+Exceção........: One or more errors occurred
+Classe.........: EAggregateException
+Onde...........: fClienteServidor
+Arquivo........: ClienteServidor
+Controle.......: btEnviarParalelo
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 20:38:52
+Exceção........: Access violation at address 00653CB2 in module 'Foo.exe'. Read of address 00000000
+Classe.........: EAccessViolation
+Onde...........: fClienteServidor
+Arquivo........: System.Threading
+Controle.......: btEnviarParalelo
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 20:40:23
+Exceção........: Insufficient memory for this operation.
+Classe.........: EDBClient
+Onde...........: fClienteServidor
+Arquivo........: Datasnap.DBClient
+Controle.......: btEnviarParalelo
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 20:41:12
+Exceção........: Unexpected variant or safe array error: $8007000E
+Classe.........: ESafeArrayError
+Onde...........: fClienteServidor
+Arquivo........: System.Threading
+Controle.......: btEnviarParalelo
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 20:42:23
+Exceção........: Unexpected variant or safe array error: $8007000E
+Classe.........: ESafeArrayError
+Onde...........: fClienteServidor
+Arquivo........: System.Threading
+Controle.......: btEnviarParalelo
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 20:47:10
+Exceção........: Unexpected variant or safe array error: $8007000E
+Classe.........: ESafeArrayError
+Onde...........: fClienteServidor
+Arquivo........: System.Threading
+Controle.......: btEnviarParalelo
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 20:47:22
+Exceção........: Out of memory
+Classe.........: EVariantOutOfMemoryError
+Onde...........: fClienteServidor
+Arquivo........: System.Threading
+Controle.......: btEnviarParalelo
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 20:47:27
+Exceção........: Insufficient memory for this operation.
+Classe.........: EDBClient
+Onde...........: fClienteServidor
+Arquivo........: System.Threading
+Controle.......: btEnviarParalelo
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 20:51:03
+Exceção........: Erro na cópia dos arquivos, a operação foi desfeita
+Classe.........: Exception
+Onde...........: fClienteServidor
+Arquivo........: ClienteServidor
+Controle.......: btEnviarComErros
+----------------------------------------------------------------------
+Data/hora......: 20/04/2021 20:52:39
+Exceção........: Erro na cópia dos arquivos, a operação foi desfeita
+Classe.........: Exception
+Onde...........: fClienteServidor
+Arquivo........: ClienteServidor
+Controle.......: btEnviarComErros
+----------------------------------------------------------------------

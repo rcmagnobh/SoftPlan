@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/04/20 15:18:14.400,=C:\Provas Tecnicas\Prova 01\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/04/20 15:18:28.224,C:\Provas Tecnicas\Prova 01\appmanutencao-master\src\Threads.pas=C:\Provas Tecnicas\Prova 01\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/04/20 15:18:28.224,C:\Provas Tecnicas\Prova 01\appmanutencao-master\src\Threads.dfm=C:\Provas Tecnicas\Prova 01\appmanutencao-master\src\Unit1.dfm</Transaction>
+    <Transaction>2021/04/20 15:34:30.447,C:\Provas Tecnicas\Prova 01\appmanutencao-master\src\Threads.pas=</Transaction>
+    <Transaction>2021/04/20 15:36:12.668,=C:\Provas Tecnicas\Prova 01\appmanutencao-master\src\Threads.pas</Transaction>
+  </Transactions>
+</BorlandProject>
